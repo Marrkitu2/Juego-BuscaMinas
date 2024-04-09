@@ -1,1 +1,3 @@
-# Hola
+## Here you can find different small projects in Java, JavaScript, HTML, CSS...
+
+In the directory "Search for mines" you can find mainly JAVA.
