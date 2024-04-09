@@ -1,3 +1,4 @@
+```java
 */
 package MinesMLM.Controlador;
 import MinesMLM.Models.Model;
@@ -88,3 +89,4 @@ public class Controlador {
         }
     }
 }
+```
