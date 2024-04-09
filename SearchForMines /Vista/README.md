@@ -1,3 +1,5 @@
+
+```java
 /**
  * Classe que representa la vista del joc de Mines.
  * Conté funcions per mostrar la informació del camp de mines a l'usuari.
@@ -34,3 +36,4 @@ public class Vista {
         System.out.println();
     }
 }
+```
