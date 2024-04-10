@@ -1,4 +1,3 @@
-```java
 /**
  * Classe que representa el model del joc de Mines.
  * Conté funcions per inicialitzar, gestionar l'estat del joc i verificar el seu final.
@@ -226,5 +225,3 @@ public class Model {
         return jocFinalitzat;
     }
 }
-
-```
